@@ -1,0 +1,5 @@
+.progressbar-color .CircularProgressbar-path { stroke: #B48E48; }
+.progressbar-trail .CircularProgressbar-trail{stroke:rgb(21, 35, 48)}
+.progressbar-text-red .CircularProgressbar-text { fill: rgb(172, 39, 49) }
+.progressbar-text-green .CircularProgressbar-text { fill: rgb(93, 148, 42) }
+.progressbar-background .CircularProgressbar-background { fill:rgb(21, 35, 48) }

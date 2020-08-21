@@ -1,0 +1,116 @@
+.terms-modal h3, .terms-modal p {
+    text-align: center;
+    color: #0a0a0a;
+}
+
+.terms-modal h3 {
+    padding: 15px 8px 10px;
+    display: block;
+}
+
+.terms-modal p {
+    padding: 0 20px 5px;
+    font-size: 12px
+}
+
+
+.terms-modal .Modal-modal-0-1-3, .terms-modal .c013 {
+    min-width: 350px;
+    max-height: 100%;
+    width: 520px;
+    height: auto;
+    overflow-y: auto;
+}
+
+.terms-modal .btn-agree {
+    display: block;
+    padding: 0 20px;
+    text-align: center;
+    color: #fff;
+    background: #c39e4a;
+    width: 80%;
+    margin: 0 auto 10px;
+    border-radius: 8px;
+    height: 40px;
+    font-size: 16px;
+}
+.terms-modal .btn-agree:hover {
+    background: #000;
+    color: #fff;
+}
+.terms-modal p.chek-box {
+    margin-top: -1rem;
+}
+.terms-modal p.chek-box a {
+        color: black !important;
+}
+.terms-modal .text-center {
+    text-align: center;
+    display: block;
+    border-bottom: 0;
+}
+
+.modal .body {
+    padding: 30px 36px 0 26px !important;
+}
+.splash-login-title {
+    text-align: center;
+    color: ##162331;
+    font-size: 33px;
+    text-transform: uppercase;
+    margin: 20px 0px 40px;
+    font-family: "brandon text regular";
+}
+
+.login-block.second {
+    width: auto;
+}
+
+.login-main-wrapper .login-title {
+    text-align: center;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    margin: -5px 0px 15px
+}
+
+.login-block.second .login-panel {
+    padding: 3rem 4rem
+}
+
+.login-panel .header {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.login-panel .click-here {
+    color: #C7A963;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.login-panel .second-page {
+    text-align: left;
+    min-height: 520px;
+}
+
+.login-panel .second-page h2 {
+    text-align: center;
+    font-size: 22px;
+    margin: 15px auto;
+}
+
+.login-panel .second-page h3 {
+    font-size: 18px;
+    margin: 40px 0 10px;
+}
+
+.login-panel .second-page .click-here {
+    margin-top: 20px;
+}
+
+@-moz-document url-prefix() {
+  .nemid_iframe {
+    height: 503px !important;
+  };
+}

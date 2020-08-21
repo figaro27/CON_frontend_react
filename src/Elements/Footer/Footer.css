@@ -1,0 +1,39 @@
+.custom-footer-wrapper {
+	float: left;
+	width: 100%;
+}
+
+.custom-footer {
+	float: left;
+	width: 100%;
+	padding: 42px 0;
+}
+
+.footer-link {
+	float: left;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-align: center;
+}
+
+.footer-link>li {
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 40px;
+	color: #fff;
+}
+.footer-link>li>a{
+	color: #fff;
+}
+
+.footer-link>li:first-child {
+	margin-left: 0;
+}
+.footer-link>li:last-child {
+	margin-right: 0;
+}
+.footer-link>li>a:hover{
+	color: #c39e4a;
+}

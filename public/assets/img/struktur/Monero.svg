@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="1000px" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Monero</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Monero">
+            <g id="Oval-3-Copy-5" transform="translate(38.000000, 36.000000)" fill="#162331">
+                <g id="path-18-link" transform="translate(14.919355, 14.919355)">
+                    <circle id="path-18" cx="447.580645" cy="447.580645" r="447.580645"></circle>
+                </g>
+            </g>
+            <path d="M496.995079,239 C358.396607,239 246,350.619558 246,488.266313 C246,515.777358 250.490465,542.240676 258.781268,567 L333.849702,567 L333.849702,357.272029 L496.999105,519.296425 L660.144483,357.272029 L660.144483,566.998206 L735.212917,566.998206 C743.509535,542.238684 748,515.775365 748,488.264316 C747.998211,350.613773 635.599615,239 496.995079,239" id="Fill-1" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path d="M465.317626,560.200155 L393.570847,489.001805 L393.570847,621.874875 L287,621.874875 C331.39968,694.155455 411.585534,742.424363 503.115626,742.424363 C594.645568,742.424363 674.839527,694.155455 719.233091,621.874875 L612.664283,621.874875 L612.664283,489 L540.917503,560.196143 L503.117466,597.704178 L465.321654,560.198147 L465.317626,560.198147 L465.317626,560.200155 Z" id="Fill-3" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

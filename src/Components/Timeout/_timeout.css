@@ -1,0 +1,8 @@
+.session-timeout .login-title {
+    line-height: 27px;
+    margin-bottom: 5px;
+}
+
+.session-timeout .verify-block p {
+    margin-bottom: 0;
+}

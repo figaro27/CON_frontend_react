@@ -1,0 +1,53 @@
+.mobile-access {
+    margin: 0px 0 30px;
+}
+
+.mobile-access * {
+	font-family: 'brandon text regular';
+}
+
+.mobile-access h3 {
+    font-size: 22px;	
+    margin: 20px 0 15px;
+    text-transform: uppercase;
+}
+
+.mobile-access .wrapper {
+    width: 100%;
+    height: auto;
+    padding: 40px 30px;
+    background-color: #162331;    	
+}
+
+.mobile-access .qrcode {
+	background: white;
+	padding: 10px;
+	width: 148px;
+	height: 148px;
+	margin-bottom: 20px;
+}
+
+.mobile-access input {
+	display: block;
+	width: 148px;
+	margin-bottom: 15px;
+	background-color: #fff !important;
+}
+
+.mobile-access .btn-activate {
+    text-align: center;
+	font-family: brandon_textbold;
+    color: #fff;
+    background: rgb(180, 142, 72);
+    font-size: 15px;
+    height: 45px;
+    line-height: 35px;
+    padding: 0;
+    width: 148px;
+    display: block;
+	border-radius: 20px;
+	margin-top: 30px;
+}
+.mobile-access .btn-activate:hover {
+    background: #5d942a;
+}

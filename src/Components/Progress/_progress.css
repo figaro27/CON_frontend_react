@@ -1,0 +1,32 @@
+.progress-page {
+    text-align: center;
+}
+
+.progress-page .bar {
+    margin: 50px auto 30px;
+}
+
+.progress-page .bar img {
+    width: 14.28%;
+    max-width: 64px;
+}
+
+.progress-page .bar img:nth-child(even) {
+    max-width: 34px;
+}
+
+.progress-page .rc-progress-line {
+    max-width: 358px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.progress-page .msg {
+    max-width: 700px;
+    width: 100%;
+    margin: 20px auto;
+}
+
+.progress-page .msg img {
+    max-width: 100%;
+}

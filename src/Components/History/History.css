@@ -1,0 +1,96 @@
+.history-block .block-title {
+    margin: 10px 0 20px;
+    font-style: brandon text regular;
+    text-transform: capitalize;
+    font-size: 26px;
+}
+
+.history-table {
+    width: 100%;
+}
+
+.history-table thead {
+    background: #162331;
+}
+
+.history-table tr th,
+.history-table tr td {
+    padding: 15px 10px
+}
+
+.history-table thead tr th {
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-family: brandon text regular;
+}
+
+.history-table tbody tr td {
+    background: #00020d;
+    color: #ccccce;
+    border-bottom: 1px solid #2e303a;
+}
+
+.history-table .green {
+    color: green;
+}
+
+.history-table .green span {
+    display: inline-block;
+    padding: 2px 4px;
+    color: #fff;
+    background: green;
+    font-size: 11px;
+}
+
+.history-table .gold {
+    color: #c39e4a;
+}
+
+.history-table .gold span {
+    display: inline-block;
+    padding: 2px 4px;
+    color: #fff;
+    background: #c39e4a;
+    font-size: 11px;
+}
+
+
+.history-table .red {
+    color: red;
+}
+
+.history-table .red span {
+    display: inline-block;
+    padding: 2px 4px;
+    color: #fff;
+    background: red;
+    font-size: 11px;
+}
+
+.history-table .history-status {
+    text-transform: capitalize;
+}
+
+
+/*----------responsive css-----------*/
+
+@media (max-width: 1199px) {
+    .history-block .block-title {margin: 0 0 20px;}
+}
+
+@media (max-width: 1023px) {
+    .history-block .block-title {margin: 0 0 15px; font-size: 22px;}
+    .history-table thead tr th {font-size: 18px;}
+    .history-table tr th, .table-dark tr td {padding: 8px;}
+}
+
+@media (max-width: 767px) {
+	.history-block .block-title {font-size: 18px;}
+	.history-table thead tr th {font-size: 14px;}
+}
+
+
+@media (max-width: 480px) {
+
+}

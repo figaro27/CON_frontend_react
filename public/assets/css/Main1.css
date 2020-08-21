@@ -1,0 +1,152 @@
+.main-login-sec {
+    width: 100%;
+    min-height: 100vh;
+    background: url(../img/bg.png) #162331 ;
+}
+
+.login-main-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.login-block {
+    max-width: 540px;
+    width: 100%;
+}
+
+.logo-login {
+    text-align: center;
+    margin: 0px 0px 15px;
+}
+
+.logo-login img {
+    width: 380px;
+}
+
+.login-panel {
+    text-align: center;
+    color: #162331;
+    background: #fff;
+    border-radius: 7px;
+    padding: 3rem 8rem;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+}
+
+.login-title {
+    text-align: center;
+    color: ##162331;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0px 0px 40px;
+    font-family: "brandon text regular";
+}
+
+.msg-title {
+    color: #fff;
+    font-size: 14px;
+    background: rgb(199, 169, 99);
+    border-radius: 7px;
+    padding: 12px;
+    font-family: "brandon text light";
+    margin: 0 0 15px;
+}
+
+.login-panel .input-control {
+    height: 45px;
+    border-radius: 7px;
+}
+.login-panel .input-login {
+    height: 45px;
+    border-radius: 7px;
+    margin-bottom: 5px;
+}
+.login-panel .input-control:-webkit-input-placeholder {
+    color: #bababa !important;
+}
+
+.btn-submit {
+    color: #fff;
+    background: #162331;
+    border-radius: 7px;
+    height: 35px;
+}
+
+.login-panel .btn-submit {
+    width: 100%;
+}
+
+.forgot-block p {
+	color: #162331;
+	margin: 0 50px 5px;
+}
+
+.forgot-block .links {
+	color: #c7a963;
+    font-family: "brandon text regular", sans-serif;
+}
+
+.login-panel .form-check-label {
+	text-align: left;
+}
+
+.chek-box label {
+	position: relative;
+	text-align: left;
+	padding-left: 20px;
+    color: #000000;
+}
+
+.chek-box label input[type="checkbox"]:empty + span:before {
+	content: "";
+	width: 15px;
+	height: 15px;
+	line-height: 15px;
+    text-align: center;
+    color: #fff;
+    font-size: 12px;
+	border: 1px solid #ddd;
+	position: absolute;
+	top: 2px;
+    left: 0;
+    border-radius: 2px;
+}
+
+.chek-box label input[type="checkbox"]:checked + span:before {
+    content: "\f00c";
+    font-family: FontAwesome;
+    background: #162331;
+}
+
+.terms-block a {
+    color: #000;
+    text-decoration: underline;
+}
+
+.thanku-img  {
+    margin: 0 0 40px;
+}
+
+.thanku-img img {
+    width: 100px;
+}
+
+.verify-block p {
+    line-height: 1.6;
+    color: #5E6979;
+}
+
+
+.verify-block a {
+    font-weight: normal;
+    color: #5E6979;
+    font-family: "brandon text regular;
+}
+
+
+
+/*-------responsive css--------------*/
+@media (max-width: 540px) {
+    .login-block {max-width: 100%; width: 90%;}
+    .login-panel {padding: 2rem 2rem;}
+}

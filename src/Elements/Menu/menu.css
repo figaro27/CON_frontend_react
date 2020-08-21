@@ -1,0 +1,175 @@
+.dashboard{
+	width: 35px;
+	padding-left: 5px;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 -10px 0 auto;
+}
+.buysell {
+	width: 35px;
+	padding-left: 5px;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 -10px 0 auto;
+}
+.report {
+	width: 35px;
+	padding-left: 5px;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 -10px 0 auto;
+}
+.historik {
+	width: 35px;
+	padding-left: 5px;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 -10px 0 auto;
+}
+.betal {
+	width: 35px;
+	padding-left: 5px;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 -10px 0 auto;
+}
+.profil {
+	width: 35px;
+	padding-left: 5px;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 -10px 0 auto;
+}
+.settings {
+	width: 35px;
+	padding-left: 5px;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 -15px 0 auto;
+}
+.back {
+	width: 35px;
+	padding-left: 5px;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 -15px 0 auto;
+}
+.logo{
+	height: 122px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%
+}
+
+.sidebar-menu-list .sub-menus li a {
+	margin-left: 30px;
+	cursor: pointer;
+}
+
+.sidebar-menu-list li>a>.pull-right-container {
+	position: absolute;
+	right: 25px;
+	top: 50%;
+	margin-top: -7px;
+}
+
+.sidebar-menu-list li a .pull-right-container>.fa-angle-left {
+	width: auto;
+	height: auto;
+	padding: 0;
+	margin-right: 10px;
+}
+
+.sidebar-menu-list li.expanded a .pull-right-container>.fa-angle-left {
+	-webkit-transform: rotate(-90deg);
+	-ms-transform: rotate(-90deg);
+	-o-transform: rotate(-90deg);
+	transform: rotate(-90deg);
+}
+
+.sidebar-menu-list li a {
+	cursor: pointer;
+}
+
+.sidebar-menu-list .sub-menus {
+	display: none;
+	margin: 2px 0;
+}
+
+.sidebar-menu-list li.expanded .sub-menus {
+	display: block;
+}
+
+.sidebar-menu-list .sub-menus li a {
+    padding: 3px;
+    display: block;
+	  height: 36px;
+		border-bottom: 1px #2e3946 solid;
+}
+
+.sidebar-menu-list .sub-menus li img {
+    float: left;
+    display: block;
+    width: 30px;
+    height: 30px;
+}
+
+.sidebar-menu-list .sub-menus li span {
+	/*margin: 3px 0 0 -15px;*/
+}
+
+.sidebar-menu-list .sub-menus li a.active {
+	color: white;
+	background: #b48e48;
+}
+
+.sidebar-menu-list .sub-menus .sidebar-menu-list-text {
+	padding-left: 10px;
+	color: #fff;
+}
+
+.link-modal {
+    position: fixed;
+    background: #2C2C2C;
+    margin: -28px 250px;
+    z-index: 1;
+    display: block;
+    overflow: visible !important;
+}
+
+.link-modal:before {
+    width: 0px;
+    height: 0px;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-right: 10px solid #2C2C2C;
+    display: block;
+    content: ' ';
+    margin-left: -10px;
+    position: absolute;
+    margin-top: 7px;
+}
+
+.link-modal ul {
+	padding: 5px 5px;
+}
+
+.link-modal ul li {
+	padding: 0 10px;
+	line-height: 30px;
+	cursor: pointer;
+}
+
+.link-modal ul li:first-child {
+	border-bottom: 1px solid #383838;
+}
+
+.link-modal ul li .exchange-type {
+	color: #3F88C2;
+	margin-right: 10px;
+}
+
+.link-modal ul li .exchange-balance {
+	color: #999;
+}

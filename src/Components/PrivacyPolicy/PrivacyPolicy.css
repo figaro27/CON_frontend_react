@@ -1,0 +1,108 @@
+.terms-of-service-wrapper {
+    float: left;
+    width: 100%;
+}
+
+.terms-of-service-content-box {
+    float: left;
+    width: 100%;
+    padding: 45px 40px;
+    margin: 0;
+    background-color: #162331;
+}
+
+.terms-of-service-text {
+    float: left;
+    width: 100%;
+    margin: 0;
+    font-family: 'Helvetica Neue Light';
+}
+
+.terms-of-service-text p {
+    margin: 0;
+}
+
+.terms-of-service-text p+p {
+    margin-top: 40px;
+}
+
+/* ============================================ Media Queries =============================================== */
+
+@media (min-width:768px) {}
+
+@media (min-width:1680px) {}
+
+@media (min-width:1920px) {}
+
+@media (min-width:1921px) {}
+
+@media (min-width:2560px) {}
+
+@media (max-width:1599px) {}
+
+@media (max-width:1366px) {}
+
+@media (max-width:1359px) {}
+
+@media (max-width:1280px) {}
+
+@media (max-width:1279px) {}
+
+@media (max-width:1199px) {
+    .terms-of-service-content-box {
+        padding: 35px 30px;
+    }
+    .terms-of-service-text p+p {
+        margin-top: 30px;
+    }
+}
+
+@media (max-width:1024px) {}
+
+@media (max-width:1023px) {
+    .terms-of-service-content-box {
+        padding: 25px;
+    }
+    .terms-of-service-text p+p {
+        margin-top: 20px;
+    }
+}
+
+@media (max-width:992px) {}
+
+@media (max-width:991px) {}
+
+@media (max-width:980px) {}
+
+@media (max-width:979px) {}
+
+@media (max-width:768px) {}
+
+@media (max-width:767px) {
+    .terms-of-service-content-box {
+        padding: 15px;
+    }
+    .terms-of-service-text p+p {
+        margin-top: 15px;
+    }
+}
+
+@media (max-width:639px) {}
+
+@media (max-width:589px) {}
+
+@media (max-width: 575px) {}
+
+@media (max-width:480px) {}
+
+@media (max-width:479px) {}
+
+@media (max-width:412px) {}
+
+@media (max-width:411px) {}
+
+@media (max-width:360px) {}
+
+@media (max-width:359px) {}
+
+@media (max-width:320px) {}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>CARD</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Login" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="CARD" stroke="green" stroke-width="2">
+            <g id="Page-1" transform="translate(6.000000, 21.000000)">
+                <path d="M85.3128571,58 L3.68714286,58 C1.65285714,58 0,56.3679654 0,54.3605628 L0,3.64069264 C0,1.63329004 1.65285714,0 3.68714286,0 L85.3128571,0 C87.3484143,0 89,1.63329004 89,3.64069264 L89,54.3605628 C89,56.3679654 87.3484143,58 85.3128571,58 Z" id="Stroke-1"></path>
+                <path d="M69,24.3189655 C67.7368421,25.3534483 66.0947368,26 64.3263158,26 C60.2842105,26 57,22.637931 57,18.5 C57,14.362069 60.2842105,11 64.3263158,11 C66.0947368,11 67.7368421,11.6465517 69,12.6810345 C67.3578947,14.1034483 66.3461053,16.1724138 66.3461053,18.5 C66.3461053,20.8275862 67.3578947,22.8965517 69,24.3189655 Z" id="Stroke-3"></path>
+                <path d="M73.5006465,11 C77.6420998,11 81,14.3581897 81,18.5 C81,22.6418103 77.6420998,26 73.5006465,26 C69.3579002,26 66,22.6418103 66,18.5 C66,14.3581897 69.3579002,11 73.5006465,11 Z" id="Stroke-5"></path>
+                <path d="M17,47 L9,47" id="Stroke-7"></path>
+                <path d="M32,47 L24,47" id="Stroke-9"></path>
+                <path d="M47,47 L39,47" id="Stroke-11"></path>
+                <path d="M62,47 L54,47" id="Stroke-13"></path>
+                <path d="M77,47 L69,47" id="Stroke-15"></path>
+                <path d="M10,15 L28,15" id="Stroke-17"></path>
+                <path d="M10,23 L41,23" id="Stroke-19"></path>
+            </g>
+        </g>
+    </g>
+</svg>
